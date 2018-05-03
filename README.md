@@ -1,5 +1,5 @@
 # Semester-1-Project
-Semester 1 Project
+## Semester 1 Project
 
 In the era of Richard Dawkins, Ronald Fischer was a biostatistician driven by data associated with hereditary and natural selection including the ‘sexy son hypothesis’. He was a strong supporter of eugenics which post-WWII is probably an unpopular belief/practice. Despite this, his methodologies mean that he was one of the leading contributors to modern statistical science. 
 
@@ -14,7 +14,7 @@ Supervised data mining techniques are used when you have a specific target value
 http://archive.ics.uci.edu/ml/datasets/Iris list a number of noteworthy papers which have since cited the data set and the link http://lab.fs.uni-lj.si/lasin/wp/IMIT_files/neural/doc/seminar8.pdf describes an experiment in which the data set was used to demonstrate three different neural network architectures. 
 
 
-# References
+### References
 * https://en.wikipedia.org/wiki/Iris_flower_data_set  
 * R. A. Fisher (1936). "The use of multiple measurements in taxonomic problems". Annals of Eugenics. 7 (2): 179–188. doi:10.1111/j.1469-1809.1936.tb02137.x  
 * https://en.wikipedia.org/wiki/Ronald_Fisher  
