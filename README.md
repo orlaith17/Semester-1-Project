@@ -15,16 +15,16 @@ http://archive.ics.uci.edu/ml/datasets/Iris list a number of noteworthy papers w
 
 
 # References
-https://en.wikipedia.org/wiki/Iris_flower_data_set 
-R. A. Fisher (1936). "The use of multiple measurements in taxonomic problems". Annals of Eugenics. 7 (2): 179–188. doi:10.1111/j.1469-1809.1936.tb02137.x
-https://en.wikipedia.org/wiki/Ronald_Fisher 
-https://stats.stackexchange.com/questions/201359/what-were-the-main-statistical-contributions-of-ronald-fisher 
-http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf 
-http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html 
-https://www.apsl.net/blog/2017/07/18/using-linear-discriminant-analysis-lda-data-explore-step-step/ 
-https://en.wikipedia.org/wiki/Support_vector_machine 
-http://core.ecu.edu/psyc/wuenschk/MV/IntroMV.pdf
-https://cloudtweaks.com/2014/09/use-supervised-unsupervised-data-mining/
-http://archive.ics.uci.edu/ml/datasets/Iris
-http://lab.fs.uni-lj.si/lasin/wp/IMIT_files/neural/doc/seminar8.pdf
-https://www.kaggle.com/benhamner/sepal-width-vs-length/code
+https://en.wikipedia.org/wiki/Iris_flower_data_set  
+R. A. Fisher (1936). "The use of multiple measurements in taxonomic problems". Annals of Eugenics. 7 (2): 179–188. doi:10.1111/j.1469-1809.1936.tb02137.x  
+https://en.wikipedia.org/wiki/Ronald_Fisher  
+https://stats.stackexchange.com/questions/201359/what-were-the-main-statistical-contributions-of-ronald-fisher  
+http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf  
+http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html  
+https://www.apsl.net/blog/2017/07/18/using-linear-discriminant-analysis-lda-data-explore-step-step/  
+https://en.wikipedia.org/wiki/Support_vector_machine  
+http://core.ecu.edu/psyc/wuenschk/MV/IntroMV.pdf  
+https://cloudtweaks.com/2014/09/use-supervised-unsupervised-data-mining/  
+http://archive.ics.uci.edu/ml/datasets/Iris  
+http://lab.fs.uni-lj.si/lasin/wp/IMIT_files/neural/doc/seminar8.pdf  
+https://www.kaggle.com/benhamner/sepal-width-vs-length/code  
