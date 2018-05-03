@@ -1,6 +1,7 @@
-# Semester-1-Project <br/>  
+# Semester-1-Project    
+---------------------  
 
-  
+
 ## README.md Contents  
 ### 1. Summary of Repository Contents
 ### 2. Summary of Iris Dataset
@@ -29,7 +30,6 @@ File Name | Content
 
 
 ## Summary of the Iris Dataset
-
 In the era of Richard Dawkins, Ronald Fischer was a biostatistician driven by data associated with hereditary and natural selection including the ‘sexy son hypothesis’. He was a strong supporter of eugenics which post-WWII is probably an unpopular belief/practice. Despite this, his methodologies mean that he was one of the leading contributors to modern statistical science. 
 
 <p align="center">
@@ -45,8 +45,6 @@ The linear discriminant model became a classic multivariate data set. The term �
 Supervised data mining techniques are used when you have a specific target value you’d like to predict about your data. Unsupervised data mining does not focus on predetermined attributes, nor does it predict a target value. Rather, unsupervised data mining finds hidden structure and relation among data.
 
 http://archive.ics.uci.edu/ml/datasets/Iris list a number of noteworthy papers which have since cited the data set and the link http://lab.fs.uni-lj.si/lasin/wp/IMIT_files/neural/doc/seminar8.pdf describes an experiment in which the data set was used to demonstrate three different neural network architectures. 
-
-
 ### References
 * https://en.wikipedia.org/wiki/Iris_flower_data_set  
 * https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x  
@@ -63,12 +61,86 @@ http://archive.ics.uci.edu/ml/datasets/Iris list a number of noteworthy papers w
 * https://www.kaggle.com/benhamner/sepal-width-vs-length/code  
 
 
+## Summary of Investigations  
+### Plotting a simple histogram of the sepal lengths
+#### Method  
+- Importation of streamlined libraries  
+- load csv in pandas
+- assign column attributes in pandas  
+- use Seaborn/matplotlib to generate a visualisation of the data as below. 
+#### Result
+- Historgram identifies that most iris sepal lengths are 4.5-7cm
 
-Investigation | Summary and Conclusions
------------- | -------------   
-   finding the max value in a given column | aghfg
-   finding the mean value in a given column | aghfg
-   finding the min value in a given column | aghfg
-   finding the sum value in a given column | aghfg
-   plot a simple histogram of the sepal lengths | hfvg
-   map variables via a scatterplot visualisation | kyuk
+<p align="center">
+  <img width="500" height="auto" src="https://github.com/orlaith17/Semester-1-Project/blob/master/Histogram.png?raw=true">
+</p>
+
+### Plotting a scattermap based on three variables
+#### Method  
+- Importation of streamlined libraries  
+- load csv in pandas
+- assign column attributes in pandas  
+- use Seaborn/matplotlib to generate a visualisation of the data as below. Plot sepal length vs. petal length and assign hue to the iris species.   
+#### Result
+- Scattermap identifies two clusters on the map with Iris-setosa clearly distinguished from the other two species based on petal and sepal length.  
+
+<p align="center">
+  <img width="500" height="auto" src="https://github.com/orlaith17/Semester-1-Project/blob/master/Scattermap.png?raw=true">
+</p>
+
+### Finding the max value in a given column
+#### Method  
+- import csv module for streamlined functions
+- use with function to open, close and manipulate file  
+- csv.reader will iterate over lines in iris.csv
+- use max function for a given column. Columns in CSV are seperated by a comma and a decimal placed number is identified as a float. note the fifth column will give an error as it not a numberical value column
+#### Result
+- Code returns that the maximum petal length of a given iris is 6.9cm.  
+
+### Finding the mean value in a given column
+#### Method - Using numpy library  
+- import libraries for streamlined functions
+- read data file into array
+- select a given column of data and define column
+- apply numpy.mean function and print
+- repeat for other columns. Note the fifth column will give an error as it not a numberical value column
+#### Result
+- Code returns: 
+  - mean of sepal length: 5.84333333333
+  - mean of sepal width is: 3.054
+  - mean of petal length is: 3.75866666667
+  - mean of petal width is: 1.19866666667 
+  
+  
+### Finding the min value in a given column  
+#### Method - Using numpy library  
+- import csv module for streamlined functions
+- use with function to open, close and manipulate file 
+- csv.reader will iterate over lines in iris.csv
+- use min function for a given column. Columns in CSV are seperated by a comma and a decimal placed number is identified as a float. note the fifth column will give an error as it not a numberical value column  
+#### Result
+- Code returns that the minimum sepal width of any given iris is 2.0 cm. 
+
+### Finding the sum value of a given column  
+#### Method 1 - Using numpy library  
+- import libraries for streamlined functions
+- read data file into array
+- select a given column of data and define column
+- apply numpy.sum function and print
+- repeat for other columns. Note the fifth column will give an error as it not a numberical value column
+
+#### Method 2 
+- import csv module for streamlined functions
+- use with function to open, close and manipulate file  
+- move to next line of csv file when next piece of data is blank in case there are errors in csv file
+- set variable
+- create a for loop using the i_add function 
+- csv.reader will iterate over lines in iris.csv
+  
+#### Result
+- Code returns slight variation between the two methods - Method 1; the total sum of the first column is 876.5, Method 2; the total sum of the first column is 876.5000000000002. I would determine that there is an error in Method 2, although after testing the code, I haven't quite understood what is causing the issue. 
+
+
+
+
+
