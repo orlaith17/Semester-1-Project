@@ -1,5 +1,12 @@
 # Semester-1-Project   
   
+  
+  
+  
+  
+  
+  
+  
 ## README.md Contents  
 ### 1. Summary of Repository Contents
 ### 2. Summary of Iris Dataset
@@ -8,7 +15,7 @@
 ## Repository Contents 
 File Name | Content
 ------------ | ------------- 
-  README.md | xxxx
+  README.md | Text file containting summary of project investigations 
   irishisto.py | File containing Python code that will plot a simple histogram of the sepal lengths in the iris dataset
   irismax.py | File containing Python code that will find the max value in a given column of the iris dataset
   irismean.py | File containing Python code that will find the mean value in a given column of the iris dataset
