@@ -1,5 +1,11 @@
 # Semester-1-Project
 
+# README.md Contents
+
+## 1. Summary of Repository Contents
+## 2. Summary of Iris Dataset
+## 3. Summary of Investigations  
+
 ## Repository Contents
 
 File Name | Content
@@ -17,17 +23,11 @@ File Name | Content
   .gitignore |  
 
    
-## README.md Contents
 
------------- | ------------- 
-1 | Summary of Iris Dataset
-2 | 
 
   
-   
-   
-   
-   
+
+
 
 ## Summary of the Iris Dataset
 
@@ -62,3 +62,14 @@ http://archive.ics.uci.edu/ml/datasets/Iris list a number of noteworthy papers w
 * http://archive.ics.uci.edu/ml/datasets/Iris  
 * http://lab.fs.uni-lj.si/lasin/wp/IMIT_files/neural/doc/seminar8.pdf  
 * https://www.kaggle.com/benhamner/sepal-width-vs-length/code  
+
+
+
+Investigation | Summary and Conclusions
+------------ | -------------   
+   finding the max value in a given column | aghfg
+   finding the mean value in a given column | aghfg
+   finding the min value in a given column | aghfg
+   finding the sum value in a given column | aghfg
+   plot a simple histogram of the sepal lengths | hfvg
+   map variables via a scatterplot visualisation | kyuk
