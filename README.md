@@ -19,7 +19,7 @@
 
 In the era of Richard Dawkins, Ronald Fischer was a biostatistician driven by data associated with hereditary and natural selection including the ‘sexy son hypothesis’. He was a strong supporter of eugenics which post-WWII is probably an unpopular belief/practice. Despite this, his methodologies mean that he was one of the leading contributors to modern statistical science. 
 
-<center>![alt text](http://www.economics.soton.ac.uk/staff/aldrich/fisherguide/Doc1_files/image001.gif)</center>
+<center> ![alt text](http://www.economics.soton.ac.uk/staff/aldrich/fisherguide/Doc1_files/image001.gif) </center>
 
 
 Edward Anderson’s 1935 collection of data on the irises of the Gaspé Peninsula records the attributes of 150 irises under 5 attributes - petal length, petal width, sepal length, sepal width and class. Anderson used 50 samples of three different species of irises; Iris setosa, Iris versicolor, and Iris virginica. Based on the data collected by Anderson, Fischer produced the paper, ‘The Use of Multiple Measurements in Taxonomic Problems’.
