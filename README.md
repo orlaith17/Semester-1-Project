@@ -2,31 +2,8 @@
 
 ## Repository Contents
 
-
-
-FORMAT: 1A
-HOST: http://www.google.com
-
-# Tables
-Notes API is a *short texts saving* service similar to its physical paper presence on your table.
-
-<center>
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-</center>
-
-
-
-
-
-
 File Name | Content
-  ------------ | ------------- 
+------------ | ------------- 
   1&2 | Exercises1&2.py
   3 | Exercise3.py
   4 | Exercise4.py
