@@ -45,7 +45,7 @@ http://archive.ics.uci.edu/ml/datasets/Iris list a number of noteworthy papers w
 
 ### References
 * https://en.wikipedia.org/wiki/Iris_flower_data_set  
-* R. A. Fisher (1936). "The use of multiple measurements in taxonomic problems". Annals of Eugenics. 7 (2): 179–188. doi:10.1111/j.1469-1809.1936.tb02137.x  
+* https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x  
 * https://en.wikipedia.org/wiki/Ronald_Fisher  
 * https://stats.stackexchange.com/questions/201359/what-were-the-main-statistical-contributions-of-ronald-fisher  
 * http://patrickhoey.com/downloads/Computer_Science/03_Patrick_Hoey_Data_Visualization_Dataset_paper.pdf  
