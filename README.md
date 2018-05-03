@@ -1,13 +1,11 @@
-# Semester-1-Project
-
-# README.md Contents
-
-## 1. Summary of Repository Contents
-## 2. Summary of Iris Dataset
-## 3. Summary of Investigations  
-
-## Repository Contents
-
+# Semester-1-Project   
+  
+## README.md Contents  
+### 1. Summary of Repository Contents
+### 2. Summary of Iris Dataset
+### 3. Summary of Investigations    
+  
+## Repository Contents 
 File Name | Content
 ------------ | ------------- 
   README.md | xxxx
