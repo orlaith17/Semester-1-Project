@@ -20,8 +20,10 @@
 In the era of Richard Dawkins, Ronald Fischer was a biostatistician driven by data associated with hereditary and natural selection including the ‘sexy son hypothesis’. He was a strong supporter of eugenics which post-WWII is probably an unpopular belief/practice. Despite this, his methodologies mean that he was one of the leading contributors to modern statistical science. 
 
 <p align="center">
-  ![alt text](http://www.economics.soton.ac.uk/staff/aldrich/fisherguide/Doc1_files/image001.gif)
+  <img width="460" height="300" src="http://www.economics.soton.ac.uk/staff/aldrich/fisherguide/Doc1_files/image001.gif">
 </p>
+
+
 
 
 
