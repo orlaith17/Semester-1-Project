@@ -4,15 +4,25 @@
 
 File Name | Content
 ------------ | ------------- 
-  1&2 | Exercises1&2.py
-  3 | Exercise3.py
-  4 | Exercise4.py
-  5 | Exercise5.py | 
-  6 | Exercise6.py
-  N/A |  | .gitignore
-  N/A |  | README.md
-  N/A |  | LICENSE
-   Data set: iris.csv
+  README.md | xxxx
+  irishisto.py | File containing Python code that will plot a simple histogram of the sepal lengths in the iris dataset
+  irismax.py | File containing Python code that will find the max value in a given column of the iris dataset
+  irismean.py | File containing Python code that will find the mean value in a given column of the iris dataset
+  irismin.py | File containing Python code that will find the minimum value in a given column of the iris dataset
+  irisscatter.py | File containing Python code that will map variables of the iris dataset via a scatterplot visualisation
+  irissum.py | File containing Python code that will find the sum value of a given column of the iris dataset
+  iris.csv | Isis data set in csv file format. This was the dataset file used to run with the Python coded files
+  R_Fisher.gif | Image 01 used in README.md
+  LICENCE | 
+  .gitignore |  
+
+   
+   
+  
+   
+   
+   
+   
 
 ## Summary of the Iris Dataset
 
